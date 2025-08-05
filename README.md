@@ -38,3 +38,64 @@ todo-app/
 └── images/ # (Optional) Screenshots or icons
 
 
+## 🔧 How to Run This Project
+
+### 🧱 Prerequisites
+
+- Code editor like **VS Code**
+- **Live Server** extension (or any browser)
+
+### 🛠️ Steps
+
+1. Clone the repository or download the ZIP.
+2. Open the folder in **VS Code**.
+3. Open `index.html`.
+4. Right-click → **Open with Live Server**.
+5. Start adding your tasks!
+
+---
+
+## 💡 Code Walkthrough
+
+### HTML Highlights
+- Input field for entering tasks
+- `Add` button to submit task
+- Unordered list to show tasks
+
+### CSS Highlights
+- Clean, minimal UI
+- Flexbox for layout
+- Media queries for mobile
+
+### JavaScript Highlights
+- `addEventListener()` for events
+- `createElement()` to add tasks dynamically
+- `classList.toggle()` to mark as complete
+- `removeChild()` to delete tasks
+
+---
+
+## 📱 Responsive Design
+
+- Looks great on **desktops, tablets, and phones**
+- Uses **flexbox** layout and **media queries**
+
+---
+
+## 🧑‍💻 Created By
+
+**Sanjeet Kumar**  
+🌟 Front-End Developer Intern | Passionate Learner
+
+---
+
+## 🤝 Contributing
+
+Want to improve this app? Go ahead!
+
+```bash
+# Fork this repository
+# Make changes and test locally
+# Create a Pull Request
+
+
